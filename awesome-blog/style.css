@@ -1,8 +1,9 @@
 .navbar {
-    background: #085E7D;
+    background: linear-gradient(to right, #2c3e50, #4ca1af); 
 }
 .bg-dark {
-    background: #085E7D !important;
+    background: linear-gradient(to right, #2c3e50, #4ca1af); 
+
 }
 
 .card-img-top {
